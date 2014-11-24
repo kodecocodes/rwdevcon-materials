@@ -1,9 +1,12 @@
 [submodule "207-SpriteKit"]
-	path = 207-SpriteKit
+	path = 207-Sprite-Kit
 	url = https://github.com/rwenderlich/dropcharge
 [submodule "308-CollectionViewCustomLayouts"]
-	path = 308-CollectionViewCustomLayouts
+	path = 308-Collection-View-Custom-Layouts
 	url = https://github.com/micpringle/Schedule
 [submodule "201-Swift-Language-Basics"]
 	path = 201-Swift-Language-Basics
 	url = https://github.com/mattjgalloway/RWDevCon-Swift-Language-Basics
+[submodule "103-Auto-Layout"]
+	path = 103-Auto-Layout
+	url = https://github.com/gregheo/RWDevCon-AutoLayout
