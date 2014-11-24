@@ -4,3 +4,6 @@
 [submodule "308-CollectionViewCustomLayouts"]
 	path = 308-CollectionViewCustomLayouts
 	url = https://github.com/micpringle/Schedule
+[submodule "201-Swift-Language-Basics"]
+	path = 201-Swift-Language-Basics
+	url = https://github.com/mattjgalloway/RWDevCon-Swift-Language-Basics
