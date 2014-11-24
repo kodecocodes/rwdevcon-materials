@@ -1,0 +1,6 @@
+[submodule "207-SpriteKit"]
+	path = 207-SpriteKit
+	url = https://github.com/rwenderlich/dropcharge
+[submodule "308-CollectionViewCustomLayouts"]
+	path = 308-CollectionViewCustomLayouts
+	url = https://github.com/micpringle/Schedule
