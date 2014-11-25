@@ -10,3 +10,6 @@
 [submodule "103-Auto-Layout"]
 	path = 103-Auto-Layout
 	url = https://github.com/gregheo/RWDevCon-AutoLayout
+[submodule "206-Dynamic-Custom-Controls"]
+	path = 206-Dynamic-Custom-Controls
+	url = https://github.com/ricardo-rendoncepeda/SuitUp
