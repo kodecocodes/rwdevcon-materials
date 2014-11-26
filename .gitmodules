@@ -22,3 +22,6 @@
 [submodule "302-Advanced-Debugging"]
 	path = 302-Advanced-Debugging
 	url = https://github.com/jrturton/Seuss
+[submodule "204-Swift-Functional-Programming"]
+	path = 204-Swift-Functional-Programming
+	url = https://github.com/algal/RWDevCon-FPStyle-stages
