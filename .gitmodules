@@ -16,3 +16,6 @@
 [submodule "306-Animating-Auto-Layout-Constraints"]
 	path = 306-Animating-Auto-Layout-Constraints
 	url = https://github.com/icanzilb/Languages
+[submodule "301-App-Architecture"]
+	path = 301-App-Architecture
+	url = https://github.com/hollance/RWDevCon-App-Architecture
