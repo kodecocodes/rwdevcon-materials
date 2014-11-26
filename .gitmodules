@@ -13,3 +13,6 @@
 [submodule "206-Dynamic-Custom-Controls"]
 	path = 206-Dynamic-Custom-Controls
 	url = https://github.com/ricardo-rendoncepeda/SuitUp
+[submodule "306-Animating-Auto-Layout-Constraints"]
+	path = 306-Animating-Auto-Layout-Constraints
+	url = https://github.com/icanzilb/Languages
