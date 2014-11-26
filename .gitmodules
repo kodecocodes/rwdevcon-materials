@@ -19,3 +19,6 @@
 [submodule "301-App-Architecture"]
 	path = 301-App-Architecture
 	url = https://github.com/hollance/RWDevCon-App-Architecture
+[submodule "302-Advanced-Debugging"]
+	path = 302-Advanced-Debugging
+	url = https://github.com/jrturton/Seuss
