@@ -25,3 +25,6 @@
 [submodule "204-Swift-Functional-Programming"]
 	path = 204-Swift-Functional-Programming
 	url = https://github.com/algal/RWDevCon-FPStyle-stages
+[submodule "102-iOS-Apprentice-Review-2"]
+	path = 102-iOS-Apprentice-Review-2
+	url = https://github.com/VegetarianZombie/102-iOS-Apprentice-Review-2
