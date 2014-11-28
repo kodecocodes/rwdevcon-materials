@@ -28,3 +28,6 @@
 [submodule "102-iOS-Apprentice-Review-2"]
 	path = 102-iOS-Apprentice-Review-2
 	url = https://github.com/VegetarianZombie/102-iOS-Apprentice-Review-2
+[submodule "208-Scene-Kit"]
+	path = 208-Scene-Kit
+	url = https://github.com/devindazzle/SceneKitFrogger
