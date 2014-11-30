@@ -31,3 +31,6 @@
 [submodule "208-Scene-Kit"]
 	path = 208-Scene-Kit
 	url = https://github.com/devindazzle/SceneKitFrogger
+[submodule "104-Adaptive-Layout"]
+	path = 104-Adaptive-Layout
+	url = https://github.com/sammyd/RWDevCon-AdaptiveLayout
