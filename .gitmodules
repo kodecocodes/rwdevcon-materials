@@ -34,3 +34,6 @@
 [submodule "104-Adaptive-Layout"]
 	path = 104-Adaptive-Layout
 	url = https://github.com/sammyd/RWDevCon-AdaptiveLayout
+[submodule "205-Core-Graphics"]
+	path = 205-Core-Graphics
+	url = https://github.com/fattjake/CGTutorial
