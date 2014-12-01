@@ -40,3 +40,6 @@
 [submodule "105-App-Extensions"]
 	path = 105-App-Extensions
 	url = https://github.com/cwagdev/RWDevCon-Timers
+[submodule "101-iOS-Apprentice-Review-1"]
+	path = 101-iOS-Apprentice-Review-1
+	url = https://github.com/Paradox927/rwdevcon-ios-apprentice-review-part-1
