@@ -46,3 +46,6 @@
 [submodule "304-Unit-Testing-in-Practice"]
 	path = 304-Unit-Testing-in-Practice
 	url = https://github.com/designatednerd/FlickrSearcher
+[submodule "101-iOS-Apprentice-Review-Part-1"]
+	path = 101-iOS-Apprentice-Review-Part-1
+	url = https://github.com/Paradox927/rwdevcon-ios-apprentice-review-1.git
