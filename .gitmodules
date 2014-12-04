@@ -26,7 +26,7 @@
 	path = 204-Swift-Functional-Programming
 	url = https://github.com/algal/RWDevCon-FPStyle-stages
 [submodule "102-iOS-Apprentice-Review-2"]
-	path = 102-iOS-Apprentice-Review-2
+	path = 102-iOS-Apprentice-Review-Part-2
 	url = https://github.com/VegetarianZombie/102-iOS-Apprentice-Review-2
 [submodule "208-Scene-Kit"]
 	path = 208-Scene-Kit
@@ -40,9 +40,6 @@
 [submodule "105-App-Extensions"]
 	path = 105-App-Extensions
 	url = https://github.com/cwagdev/RWDevCon-Timers
-[submodule "101-iOS-Apprentice-Review-1"]
-	path = 101-iOS-Apprentice-Review-1
-	url = https://github.com/Paradox927/rwdevcon-ios-apprentice-review-part-1
 [submodule "304-Unit-Testing-in-Practice"]
 	path = 304-Unit-Testing-in-Practice
 	url = https://github.com/designatednerd/FlickrSearcher
