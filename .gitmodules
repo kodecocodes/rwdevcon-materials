@@ -39,7 +39,7 @@
 	url = https://github.com/fattjake/CGTutorial
 [submodule "105-App-Extensions"]
 	path = 105-App-Extensions
-	url = https://github.com/cwagdev/RWDevCon-Timers
+	url = https://github.com/cwagdev/RWDevCon-Countdown 
 [submodule "304-Unit-Testing-in-Practice"]
 	path = 304-Unit-Testing-in-Practice
 	url = https://github.com/designatednerd/FlickrSearcher
