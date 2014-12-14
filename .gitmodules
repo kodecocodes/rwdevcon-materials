@@ -46,3 +46,6 @@
 [submodule "101-iOS-Apprentice-Review-Part-1"]
 	path = 101-iOS-Apprentice-Review-Part-1
 	url = https://github.com/Paradox927/rwdevcon-ios-apprentice-review-1.git
+[submodule "202-Swift-Closures-Generics"]
+	path = 202-Swift-Closures-Generics
+	url = https://github.com/hollance/RWDevCon-Swift-Closures-Generics
