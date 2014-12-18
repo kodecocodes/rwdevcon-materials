@@ -52,3 +52,6 @@
 [submodule "108-Parse"]
 	path = 108-Parse
 	url = https://github.com/gfosco/RWDevCon2015-108-Parse
+[submodule "203-Swift-and-Cocoa"]
+	path = 203-Swift-and-Cocoa
+	url = https://github.com/mattjgalloway/RWDevCon-Swift-and-Cocoa
