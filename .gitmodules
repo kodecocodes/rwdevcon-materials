@@ -55,3 +55,6 @@
 [submodule "203-Swift-and-Cocoa"]
 	path = 203-Swift-and-Cocoa
 	url = https://github.com/mattjgalloway/RWDevCon-Swift-and-Cocoa
+[submodule "107-WatchKit-Part-2"]
+	path = 107-WatchKit-Part-2
+	url = https://github.com/micpringle/107-WatchKit-Part-2
