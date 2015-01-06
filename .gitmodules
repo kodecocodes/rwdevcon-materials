@@ -61,3 +61,6 @@
 [submodule "307-CoreData-Multithreading"]
 	path = 307-CoreData-Multithreading
 	url = https://github.com/casademora/RWDevCon-CourseCatalog
+[submodule "106-WatchKit-Part-1"]
+	path = 106-WatchKit-Part-1
+	url = https://github.com/gregheo/RWDevCon-WatchKit-1
