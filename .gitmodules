@@ -64,3 +64,6 @@
 [submodule "106-WatchKit-Part-1"]
 	path = 106-WatchKit-Part-1
 	url = https://github.com/gregheo/RWDevCon-WatchKit-1
+[submodule "305-Animating-View-Controller-Transitions"]
+	path = 305-Animating-View-Controller-Transitions
+	url = https://github.com/rnystrom/RWDevCon-View-Controller-Transitions
