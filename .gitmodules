@@ -67,3 +67,6 @@
 [submodule "305-Animating-View-Controller-Transitions"]
 	path = 305-Animating-View-Controller-Transitions
 	url = https://github.com/rnystrom/RWDevCon-View-Controller-Transitions
+[submodule "Inspiration/Impossible"]
+	path = Inspiration/Possibility
+	url = https://github.com/Paradox927/rwdevcon-inspiration-impossible.git
