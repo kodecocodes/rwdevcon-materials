@@ -73,3 +73,6 @@
 [submodule "Inspiration/Teamwork"]
 	path = Inspiration/Teamwork
 	url = https://github.com/rwenderlich/inspiration-teamwork
+[submodule "Inspiration/Devsign"]
+	path = Inspiration/Devsign
+	url = https://github.com/ricardo-rendoncepeda/devsign
