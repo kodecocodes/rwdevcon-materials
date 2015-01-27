@@ -76,3 +76,6 @@
 [submodule "Inspiration/Devsign"]
 	path = Inspiration/Devsign
 	url = https://github.com/ricardo-rendoncepeda/devsign
+[submodule "Inspiration/raywenderlich.com folklore"]
+	path = Inspiration/raywenderlich.com folklore
+	url = https://github.com/icanzilb/raywenderlichcomfolklore
