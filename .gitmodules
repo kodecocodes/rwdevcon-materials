@@ -82,3 +82,6 @@
 [submodule "Inspiration/Math"]
 	path = Inspiration/Math
 	url = https://github.com/hollance/RWDevCon-Inspiration-Talk
+[submodule "Inspiration/Finishing"]
+	path = Inspiration/Finishing
+	url = https://github.com/devindazzle/Finishing
