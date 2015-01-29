@@ -79,3 +79,6 @@
 [submodule "Inspiration/raywenderlich.com folklore"]
 	path = Inspiration/raywenderlich.com folklore
 	url = https://github.com/icanzilb/raywenderlichcomfolklore
+[submodule "Inspiration/Math"]
+	path = Inspiration/Math
+	url = https://github.com/hollance/RWDevCon-Inspiration-Talk
