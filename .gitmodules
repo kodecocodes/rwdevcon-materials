@@ -88,3 +88,6 @@
 [submodule "303-AayncDisplayKit"]
 	path = 303-AayncDisplayKit
 	url = https://github.com/RCacheaux/wonders
+[submodule "Inspiration/Craftmanship"]
+	path = Inspiration/Craftmanship
+	url = https://github.com/cwagdev/RWDevCon-Inspiration-Craftsmanship
