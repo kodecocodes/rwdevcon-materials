@@ -86,7 +86,7 @@
 	path = Inspiration/Finishing
 	url = https://github.com/devindazzle/Finishing
 [submodule "303-AayncDisplayKit"]
-	path = 303-AayncDisplayKit
+	path = 303-AsyncDisplayKit
 	url = https://github.com/RCacheaux/wonders
 [submodule "Inspiration/Craftmanship"]
 	path = Inspiration/Craftmanship
