@@ -94,3 +94,6 @@
 [submodule "Inspiration/Identity II"]
 	path = Inspiration/Identity II
 	url = https://github.com/algal/inspiration-talk-RWDevCon
+[submodule "Inspiration/Starting Over"]
+	path = Inspiration/Starting Over
+	url = https://github.com/designatednerd/StartingOverTalk
