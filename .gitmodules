@@ -91,3 +91,6 @@
 [submodule "Inspiration/Craftmanship"]
 	path = Inspiration/Craftmanship
 	url = https://github.com/cwagdev/RWDevCon-Inspiration-Craftsmanship
+[submodule "Inspiration/Identity II"]
+	path = Inspiration/Identity II
+	url = https://github.com/algal/inspiration-talk-RWDevCon
