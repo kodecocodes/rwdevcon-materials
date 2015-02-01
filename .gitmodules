@@ -100,3 +100,6 @@
 [submodule "Inspiration/Opportunity"]
 	path = Inspiration/Opportunity
 	url = https://github.com/fattjake/inspirationTalk
+[submodule "Inspiration/Identity I"]
+	path = Inspiration/Identity I
+	url = https://github.com/rwenderlich/inspiration-identity
