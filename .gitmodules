@@ -97,3 +97,6 @@
 [submodule "Inspiration/Starting Over"]
 	path = Inspiration/Starting Over
 	url = https://github.com/designatednerd/StartingOverTalk
+[submodule "Inspiration/Opportunity"]
+	path = Inspiration/Opportunity
+	url = https://github.com/fattjake/inspirationTalk
